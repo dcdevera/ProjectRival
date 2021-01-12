@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91babefd461b71e49a47c4e1143ab56a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _mainMenuBackground: {fileID: 2800000, guid: 5ebd5e6a98e2f2f489121679d8986ce2,
+      type: 3}
+  - _mainMenuMusic: {instanceID: 0}
+  - _mainMenuStartButtonAudio: {instanceID: 0}
+  - _mainMenuQuitButtonAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
